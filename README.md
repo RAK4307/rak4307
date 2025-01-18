@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anil kumar rayapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil kumar rayapudi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Anil Kumar Rayapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil kumar rayapudi" height="30" width="40" /></a>
 <a href="https://instagram.com/__mr.ak43__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mr.ak43__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anilkumar43" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anilkumar43" height="30" width="40" /></a>
 </p>
