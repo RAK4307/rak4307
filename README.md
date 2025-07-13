@@ -18,7 +18,24 @@
 
 ###
 
-<h5 align="left"><br>I'm a CSE-AIML student at Vignan's Lara, passionate about full-stack web development and AI/ML. I enjoy building innovative solutions that blend AI with real-world applications.<br><br><br> -  🔭 I’m working as: An intern, gaining hands-on experience in software development.<br><br> - 📚 I'm currently learning: Full-stack web development (React.js, Node.js, MongoDB) and deepening my AI/ML skills.<br><br> - ⚡ In my free time: I solve coding challenges, explore new technologies, and contribute to open-source projects.<br><br> - 🧠 Strengths: Quick learner, problem-solver, and strong leadership skills, with experience in leading teams and managing projects efficiently.</h5>
+I'm a Computer Science (AIML) student at Vignan's Lara, passionate about Full-Stack Development, Artificial Intelligence, and Python programming.
+
+- 🔭 **Current Role:** Software Development Intern, building production-level full-stack applications.
+
+- 💼 **Projects Include:**
+  - 🏦 **BluVault Bank Website** – A secure banking system for managing accounts and transactions using SQL.
+  - 📖 Book Review System – Built with MongoDB, Express, React, and Node.js (MERN stack).
+  - ⚡ SwiftFolio – A dynamic portfolio generator built using React and JSON.
+  - 🧠 **Brain Tumor Detection (Ongoing)** – A deep learning project using CNNs to analyze MRI scans for tumor classification.
+
+- 📚 **Currently Learning:** MERN stack, cloud deployment, and integration of AI/ML models into real-world applications.
+
+- 🐍 **Tech Interests:** Python, clean code architecture, intuitive UI/UX, and impactful problem-solving.
+
+- 🧠 **Strengths:** Quick learner, effective team leader, strong communicator, and passionate about continuous improvement.
+
+- 🌱 **Beyond Code:** Active in open-source, solving DSA/coding challenges, and exploring new technologies.
+
 
 ###
 
