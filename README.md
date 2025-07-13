@@ -20,21 +20,21 @@
 
 I'm a Computer Science (AIML) student at Vignan's Lara, passionate about Full-Stack Development, Artificial Intelligence, and Python programming.
 
-- 🔭 **Current Role:** Software Development Intern, building production-level full-stack applications.
+-  **Current Role:** Software Development Intern, building production-level full-stack applications.
 
-- 💼 **Projects Include:**
-  - 🏦 **BluVault Bank Website** – A secure banking system for managing accounts and transactions using SQL.
-  - 📖 Book Review System – Built with MongoDB, Express, React, and Node.js (MERN stack).
-  - ⚡ SwiftFolio – A dynamic portfolio generator built using React and JSON.
-  - 🧠 **Brain Tumor Detection (Ongoing)** – A deep learning project using CNNs to analyze MRI scans for tumor classification.
+-  **Projects Include:**
+  - **BluVault Bank Website** – A secure banking system for managing accounts and transactions using SQL.
+  - Book Review System – Built with MongoDB, Express, React, and Node.js (MERN stack).
+  - SwiftFolio – A dynamic portfolio generator built using React and JSON.
+  - **Brain Tumor Detection (Ongoing)** – A deep learning project using CNNs to analyze MRI scans for tumor classification.
 
-- 📚 **Currently Learning:** MERN stack, cloud deployment, and integration of AI/ML models into real-world applications.
+-  **Currently Learning:** MERN stack, cloud deployment, and integration of AI/ML models into real-world applications.
 
-- 🐍 **Tech Interests:** Python, clean code architecture, intuitive UI/UX, and impactful problem-solving.
+-  **Tech Interests:** Python, clean code architecture, intuitive UI/UX, and impactful problem-solving.
 
-- 🧠 **Strengths:** Quick learner, effective team leader, strong communicator, and passionate about continuous improvement.
+-  **Strengths:** Quick learner, effective team leader, strong communicator, and passionate about continuous improvement.
 
-- 🌱 **Beyond Code:** Active in open-source, solving DSA/coding challenges, and exploring new technologies.
+-  **Beyond Code:** Active in open-source, solving DSA/coding challenges, and exploring new technologies.
 
 
 ###
