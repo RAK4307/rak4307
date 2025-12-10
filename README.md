@@ -18,7 +18,7 @@
 
 ###
 
-I'm a Computer Science (AIML) student at Vignan's Lara, passionate about Full-Stack Development, Artificial Intelligence, and Python programming.
+I'm a Computer Science (AIML) student at Vignan's Lara, passionate about Full-Stack Development, Artificial Intelligence & Machine Learning, and Python programming.
 
 - 🔭 **Current Role:** Software Development Intern, building production-level full-stack applications.
 
